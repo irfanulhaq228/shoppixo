@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/irfanulhaq228/shoppixo.git/static/css/main.24f105cc.css",
+    "main.js": "/irfanulhaq228/shoppixo.git/static/js/main.c9ed54c3.js",
+    "static/js/787.426efb36.chunk.js": "/irfanulhaq228/shoppixo.git/static/js/787.426efb36.chunk.js",
+    "static/media/ser_mainimg.png": "/irfanulhaq228/shoppixo.git/static/media/ser_mainimg.bb4d9524696476975c1e.png",
+    "static/media/error_page.png": "/irfanulhaq228/shoppixo.git/static/media/error_page.01e7c6cc0a1eed5d83e8.png",
+    "static/media/bg-image-2.png": "/irfanulhaq228/shoppixo.git/static/media/bg-image-2.03b721c630761b4f9435.png",
+    "static/media/shoppixo_logo.png": "/irfanulhaq228/shoppixo.git/static/media/shoppixo_logo.24366479f72c8cee38a1.png",
+    "index.html": "/irfanulhaq228/shoppixo.git/index.html",
+    "main.24f105cc.css.map": "/irfanulhaq228/shoppixo.git/static/css/main.24f105cc.css.map",
+    "main.c9ed54c3.js.map": "/irfanulhaq228/shoppixo.git/static/js/main.c9ed54c3.js.map",
+    "787.426efb36.chunk.js.map": "/irfanulhaq228/shoppixo.git/static/js/787.426efb36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24f105cc.css",
+    "static/js/main.c9ed54c3.js"
+  ]
+}
